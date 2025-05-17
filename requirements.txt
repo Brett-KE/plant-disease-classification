@@ -1,0 +1,8 @@
+```txt
+flask
+tensorflow
+keras
+numpy
+pillow
+matplotlib
+```
